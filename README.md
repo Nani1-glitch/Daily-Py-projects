@@ -18,47 +18,47 @@ This repository contains a series of Python projects ranging from simple scripts
 
 ## 🗂️ Project List
 
-Here is a list of available projects:
+Here is a list of available projects with descriptions:
 
-| #  | Project Name                          | Description                                      |
-|----|---------------------------------------|-------------------------------------------------|
-| 1  | **TESLA**                             | [Description of TESLA project]                   |
-| 2  | **7loop.py**                          | [Description of 7loop.py script]                 |
-| 3  | **GAME.py**                           | [Description of GAME.py script]                  |
-| 4  | **GUI.py**                            | [Description of GUI.py script]                   |
-| 5  | **Heart Detection using python.py**   | [Description of Heart Detection project]         |
-| 6  | **NITHN @ SIMPLE PONG GAME.py**       | [Description of SIMPLE PONG GAME project]        |
-| 7  | **air canvas.py**                     | [Description of air canvas.py script]            |
-| 8  | **arrays.py**                         | [Description of arrays.py script]                |
-| 9  | **bitcoin mine.py**                   | [Description of bitcoin mine.py script]          |
-| 10 | **calcy 2.py**                        | [Description of calcy 2.py script]               |
-| 11 | **cam sound.py**                      | [Description of cam sound.py script]             |
-| 12 | **d 2.py**                            | [Description of d 2.py script]                   |
-| 13 | **d3.py**                             | [Description of d3.py script]                    |
-| 14 | **d4.py**                             | [Description of d4.py script]                    |
-| 15 | **if.py**                             | [Description of if.py script]                    |
-| 16 | **insta dp.py**                       | [Description of insta dp.py script]              |
-| 17 | **lady voice.py**                     | [Description of lady voice.py script]            |
-| 18 | **links**                             | [Description of links directory]                 |
-| 19 | **modules.py**                        | [Description of modules.py script]               |
-| 20 | **new year.py**                       | [Description of new year.py script]              |
-| 21 | **oops test.py**                      | [Description of oops test.py script]             |
-| 22 | **oops.py**                           | [Description of oops.py script]                  |
-| 23 | **puzzle.py**                         | [Description of puzzle.py script]                |
-| 24 | **pywhatkit_dbs.txt**                 | [Description of pywhatkit_dbs.txt file]          |
-| 25 | **restaurant management system.py**  | [Description of restaurant management system]    |
-| 26 | **siri2.0.py**                        | [Description of siri2.0.py script]               |
-| 27 | **speech to text.py**                 | [Description of speech to text.py script]        |
-| 28 | **stopwatch.py**                      | [Description of stopwatch.py script]             |
-| 29 | **student management system.py**      | [Description of student management system]       |
-| 30 | **sum of an array.py**                | [Description of sum of an array.py script]       |
-| 31 | **testing.py**                        | [Description of testing.py script]               |
-| 32 | **ttesla.py**                         | [Description of ttesla.py script]                |
-| 33 | **welcome1.mp3**                      | [Description of welcome1.mp3 file]               |
-| 34 | **whatsapp.py**                       | [Description of whatsapp.py script]              |
-| 35 | **while.py**                          | [Description of while.py script]                 |
+| #  | Project Name                          | Description                                                                                  |
+|----|---------------------------------------|----------------------------------------------------------------------------------------------|
+| 1  | **TESLA**                             | The specific functionality of this project is not detailed in the available information.     |
+| 2  | **7loop.py**                          | The specific functionality of this script is not detailed in the available information.      |
+| 3  | **GAME.py**                           | The specific functionality of this script is not detailed in the available information.      |
+| 4  | **GUI.py**                            | The specific functionality of this script is not detailed in the available information.      |
+| 5  | **Heart Detection using python.py**   | The specific functionality of this project is not detailed in the available information.     |
+| 6  | **NITHN @ SIMPLE PONG GAME.py**       | The specific functionality of this project is not detailed in the available information.     |
+| 7  | **air canvas.py**                     | The specific functionality of this script is not detailed in the available information.      |
+| 8  | **arrays.py**                         | The specific functionality of this script is not detailed in the available information.      |
+| 9  | **bitcoin mine.py**                   | The specific functionality of this script is not detailed in the available information.      |
+| 10 | **calcy 2.py**                        | The specific functionality of this script is not detailed in the available information.      |
+| 11 | **cam sound.py**                      | The specific functionality of this script is not detailed in the available information.      |
+| 12 | **d 2.py**                            | The specific functionality of this script is not detailed in the available information.      |
+| 13 | **d3.py**                             | The specific functionality of this script is not detailed in the available information.      |
+| 14 | **d4.py**                             | The specific functionality of this script is not detailed in the available information.      |
+| 15 | **if.py**                             | The specific functionality of this script is not detailed in the available information.      |
+| 16 | **insta dp.py**                       | The specific functionality of this script is not detailed in the available information.      |
+| 17 | **lady voice.py**                     | The specific functionality of this script is not detailed in the available information.      |
+| 18 | **links**                             | The specific functionality of this directory is not detailed in the available information.   |
+| 19 | **modules.py**                        | The specific functionality of this script is not detailed in the available information.      |
+| 20 | **new year.py**                       | The specific functionality of this script is not detailed in the available information.      |
+| 21 | **oops test.py**                      | The specific functionality of this script is not detailed in the available information.      |
+| 22 | **oops.py**                           | The specific functionality of this script is not detailed in the available information.      |
+| 23 | **puzzle.py**                         | The specific functionality of this script is not detailed in the available information.      |
+| 24 | **pywhatkit_dbs.txt**                 | The specific functionality of this file is not detailed in the available information.        |
+| 25 | **restaurant management system.py**  | The specific functionality of this script is not detailed in the available information.      |
+| 26 | **siri2.0.py**                        | The specific functionality of this script is not detailed in the available information.      |
+| 27 | **speech to text.py**                 | The specific functionality of this script is not detailed in the available information.      |
+| 28 | **stopwatch.py**                      | The specific functionality of this script is not detailed in the available information.      |
+| 29 | **student management system.py**      | The specific functionality of this script is not detailed in the available information.      |
+| 30 | **sum of an array.py**                | The specific functionality of this script is not detailed in the available information.      |
+| 31 | **testing.py**                        | This script imports a function from `fileB` and attempts to execute another script named `test1.py`. |
+| 32 | **ttesla.py**                         | The specific functionality of this script is not detailed in the available information.      |
+| 33 | **welcome1.mp3**                      | An audio file, but its specific purpose is not detailed in the available information.        |
+| 34 | **whatsapp.py**                       | Automates sending messages on WhatsApp Web using `pyautogui` and `webbrowser` modules.       |
+| 35 | **while.py**                          | A script that prompts the user for the number of candies they want and prints "candies" accordingly. |
 
-*Note: Replace the placeholder text in brackets with actual descriptions for each project.*
+*Note: For several files, specific descriptions are not available based on the current information. Reviewing the actual code would provide more detailed insights.*
 
 ## 🛠️ Installation
 
