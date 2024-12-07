@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+For any inquiries or feedback, please contact **Nithin Rajulapati** at nithinrajulapati9999@gmail.com
 
 ---
 
